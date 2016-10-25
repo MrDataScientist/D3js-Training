@@ -2,6 +2,8 @@
 
 ##How to learn D3.js ?
 
+Starting point :
+
 - https://www.quora.com/How-do-I-learn-D3-js
 - https://github.com/d3/d3/wiki/tutorials
 - http://alignedleft.com/tutorials/d3/
